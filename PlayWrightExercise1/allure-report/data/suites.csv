@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4779","testcase1","chromium","Sun Dec 29 18:52:51 IST 2024","passed","Sun Dec 29 18:52:55 IST 2024","","Login.spec.js","",""
+"","21","@web testcase1","chromium","Sun Dec 29 18:06:51 IST 2024","failed","Sun Dec 29 18:06:51 IST 2024","","LoginPOTestClass2withPOManager.spec.js","",""
+"","11","@web testcase1","chromium","Sun Dec 29 18:14:57 IST 2024","failed","Sun Dec 29 18:14:57 IST 2024","","Login.spec.js","",""
